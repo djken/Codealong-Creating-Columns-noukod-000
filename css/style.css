@@ -141,14 +141,14 @@ section {
 #social {
   position: fixed;
   top: 200px;
-  right: 20px;
+  right: 10px;
   width: 40px;
   z-index: 1;
 }
 
 #social a {
   display: block;
-  width: 40px;
+  width: 30px;
   height: 40px;
   background: yellow;
 }
